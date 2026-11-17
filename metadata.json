@@ -1,0 +1,6 @@
+{
+  "name": "PolyU Design Competition Award Subsidy Scheme",
+  "description": "Interactive student reimbursement portal prototype for the PolyU School of Design Competition Award Subsidy Scheme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
